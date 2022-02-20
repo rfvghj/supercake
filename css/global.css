@@ -1,0 +1,20 @@
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/* COLORS */
+
+.color-dark-blue{
+    color: #01081e;
+}
+.color-active{
+    color: #e0a485;
+}
+.color-purple{
+    color: #521c80;
+    
+}
+.color-white{
+    color: #fff;
+}
